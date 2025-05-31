@@ -4,7 +4,7 @@
 **Previous Education:**
 - I hold a BSc in Honours Biology from UBC (2020-2025)
 
-**Intrests:**
+**Interests:**
 - I'm interested in the intersection between omics (genomics, transcriptomics, ...) and computer science
 - In my free time, I like to code, read scientific papers, work on math, and hit the gym
 
