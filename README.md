@@ -1,5 +1,3 @@
-[Linkedin](www.linkedin.com/in/mahan-rafieenaini)
-
 **Currently:**
 - 3rd Year Bachelor of Computer Science Student @ University of British Columbia (UBC)
 
