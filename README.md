@@ -11,7 +11,7 @@
 
 <p>
   Checkout my <a href="www.linkedin.com/in/mahan-rafieenaini">LinkedIn</a> for more!
-  <img src="" />
+  <img src="dancing_parrot.gif" width="30" alt="Cool dancing parrot gif"/>
 </p>
 
 <!---
