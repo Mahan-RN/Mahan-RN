@@ -1,5 +1,7 @@
 <h1 align="center">Mahan RN</h1>
-<img src="molecules_dance.gif">
+<p align="center">
+<img src="molecules_dance.gif" width="200" alt="Cool gif of a dancing molecule">
+</p>
 
 **Currently:**
 - 3rd Year Bachelor of Computer Science Student @ University of British Columbia (UBC)
