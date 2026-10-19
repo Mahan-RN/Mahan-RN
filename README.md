@@ -11,7 +11,7 @@
 - Bachelor of Science in Honours Biology @ University of British Columbia (2020-2025) 🧬
 
 <p>
-  Checkout my <a href="www.linkedin.com/in/mahan-rafieenaini">LinkedIn</a> for more!
+  Checkout my <a href="https://www.linkedin.com/in/mahan-rafieenaini">LinkedIn</a> for more!
   <img src="dancing_parrot.gif" width="30" alt="Cool dancing parrot gif"/>
 </p>
 
