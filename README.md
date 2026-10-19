@@ -1,6 +1,10 @@
 <h1 align="center">Mahan RN</h1>
 <p align="center">
-<img src="molecules_dance.gif" width="200" alt="Cool gif of a dancing molecule">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="molecules_dance.gif">
+    <source media="(prefers-color-scheme: light)" srcset="fire.gif">
+    <img src="molecules_dance.gif" width="200" alt="Animated banner">
+  </picture>
 </p>
 
 **Currently:**
