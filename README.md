@@ -4,10 +4,10 @@
 </p>
 
 **Currently:**
-- 3rd Year Bachelor of Computer Science Student @ University of British Columbia (UBC)
+- Bachelor of Computer Science Student @ University of British Columbia - Year 4
 
 **Previous Education:**
-- I hold a BSc in Honours Biology from UBC (2020-2025)
+- Bachelor of Science in Honours Biology from UBC (2020-2025)
 
 Checkout my [LinkedIn](www.linkedin.com/in/mahan-rafieenaini) for more!
 <!---
