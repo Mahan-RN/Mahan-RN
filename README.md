@@ -9,7 +9,11 @@
 **Previous Education:**
 - Bachelor of Science in Honours Biology from UBC (2020-2025)
 
-Checkout my [LinkedIn](www.linkedin.com/in/mahan-rafieenaini) for more!
+<p>
+  Checkout my <a href="www.linkedin.com/in/mahan-rafieenaini">LinkedIn</a> for more!
+  <img src="" />
+</p>
+
 <!---
 Mahan-RN/Mahan-RN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
