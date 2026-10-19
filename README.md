@@ -8,7 +8,7 @@
 - Bachelor of Computer Science Student @ University of British Columbia - Year 4 💻
 
 **Previous Education:**
-- Bachelor of Science in Honours Biology - University of British Columbia (2020-2025) 🧬
+- Bachelor of Science in Honours Biology @ University of British Columbia (2020-2025) 🧬
 
 <p>
   Checkout my <a href="www.linkedin.com/in/mahan-rafieenaini">LinkedIn</a> for more!
