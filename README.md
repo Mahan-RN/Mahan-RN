@@ -1,3 +1,6 @@
+<h1 align="center">Mahan RN</h1>
+<img src="molecules_dance.gif">
+
 **Currently:**
 - 3rd Year Bachelor of Computer Science Student @ University of British Columbia (UBC)
 
